@@ -3,4 +3,5 @@ export default{
   build: {
     outDir: "docs",//docsというディレクトリに出力する
   },
+  base: "/learn-data-visualization/"
 };
